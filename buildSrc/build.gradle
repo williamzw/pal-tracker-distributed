@@ -5,3 +5,7 @@ repositories {
 dependencies {
     compile "org.flywaydb:flyway-gradle-plugin:5.2.1"
 }
+
+//plugins{
+////    id 'io.pivotal.pal.tracker.gradlebuild.DependenciesGraphPlugin' version '4.10.3'
+////}
